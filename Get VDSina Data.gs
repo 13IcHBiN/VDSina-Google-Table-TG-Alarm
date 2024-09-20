@@ -26,7 +26,7 @@ function GET_VDSINA_DATA() { // start of the function GET_VDSINA_DATA
     }
 
     let Get_Servers_Response = UrlFetchApp.fetch(Data[q].url, params)
-    // Logger.log('Server response: ' + Get_Servers_Response.getContentText())
+    // Logger.log('Server response: ' + Get_Servers_Response.getContentText()) // for investigations
     // console.log("Get_Servers_Response:",Get_Servers_Response.getContentText()) // for investigations
 
     let servers = JSON.parse(Get_Servers_Response.getContentText())
