@@ -1,10 +1,11 @@
 Hello! It is simple App Script code to gather data from VDSina accounts and notify about traffic overage
 
 Just copy-past to app script code from 
-replace this data with yours tokens
-YOUR_VDSINA_TOKEN_HERE
-YOUR_TG_BOT_API_KEY_HERE
-YOUR_TG_RECEIVER_ID_HERE
+replace this data with yours
+
+\nYOUR_VDSINA_TOKEN_HERE
+\nYOUR_TG_BOT_API_KEY_HERE
+\nYOUR_TG_RECEIVER_ID_HERE
 
 to own VDSina
 
