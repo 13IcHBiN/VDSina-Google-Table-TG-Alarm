@@ -4,7 +4,7 @@ function GET_VDSINA_DATA() { // start of the function GET_VDSINA_DATA
   // https://vdsina.com/tech/api
   // https://vdsina.ru/tech/api
 
-  const VDSinaSS = SpreadsheetApp.getActive().getSheetByName('0_VDSina') // Sheet name here
+  const VDSinaSS = SpreadsheetApp.getActive().getSheetByName('YOUR_SHEET_NAME_HERE') // Sheet name here
   VDSinaSS.getRange('A2:G').clearContent() // Clear cells from old data
   let row = 2
   let Data = [
