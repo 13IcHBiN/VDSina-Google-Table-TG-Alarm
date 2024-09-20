@@ -1,4 +1,4 @@
-# VDSina-Google-Table-TG-Alarm
+//# VDSina-Google-Table-TG-Alarm
 Hello! It is simple App Script code to gather data from VDSina accounts and notify about traffic overage
 
 Just copy-past to app script code from 
